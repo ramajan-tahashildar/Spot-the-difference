@@ -1,4 +1,4 @@
-# Spot the Difference Game
+# Spot the Difference Game [Demo](https://spot-difference.netlify.app/)
 ## Description
 This is a **"Spot the Difference"** game built using **HTML**, **CSS**, and **JavaScript**. The game displays two images side-by-side, where players must identify differences between the two by clicking on them. Each difference is highlighted upon selection, and the game keeps track of the player's score and time.
 
@@ -65,12 +65,12 @@ To run this game, you’ll need:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/spot-the-difference-game.git
+   git clone https://github.com/ramajan-tahashildar/Spot-the-difference.git
    ```
    
 2. Navigate to the project folder:
    ```bash
-   cd spot-the-difference-game
+   cd Spot-the-difference
    ```
 
 3. Open the `index.html` file in your browser to play the game.
